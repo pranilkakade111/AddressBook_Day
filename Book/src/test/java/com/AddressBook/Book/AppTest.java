@@ -7,6 +7,7 @@ import org.junit.Test;
 
 public class AppTest {
 
+	
 	@Test
 	public void printRecordsFromDBtest() throws SQLException
 	{
