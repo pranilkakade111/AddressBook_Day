@@ -18,7 +18,7 @@ public class AppTest {
 	public void InsertRecordsFromDBtest() throws SQLException, ClassNotFoundException, IOException
 	{
          AddressBookServices services = new AddressBookServices();
-         services.add_new(AddressBookDb);
+         services.add_new(null);
     }
 	
 	@Test
